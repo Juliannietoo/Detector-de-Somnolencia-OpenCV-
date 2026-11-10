@@ -1,0 +1,7 @@
+# Entornos virtuales y Python
+__pycache__/
+*.pyc
+
+# Capturas de prueba generadas por la alarma (privacidad)
+ss_alarma/*.jpg
+capturas_alarma/*.jpg
